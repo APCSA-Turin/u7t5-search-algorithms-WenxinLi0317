@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestSearch" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-02-13T14:26:49" hostname="codespaces-917608" time="0.066">
+<testsuite name="com.example.project.TestSearch" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-02-14T16:48:47" hostname="codespaces-917608" time="0.028">
   <properties/>
-  <testcase name="testLinearSearchFoundList()" classname="com.example.project.TestSearch" time="0.0"/>
-  <testcase name="testLinearSearchFirstArrayList()" classname="com.example.project.TestSearch" time="0.001"/>
-  <testcase name="testLinearSearchFoundArray()" classname="com.example.project.TestSearch" time="0.01"/>
+  <testcase name="testLinearSearchFoundList()" classname="com.example.project.TestSearch" time="0.001"/>
+  <testcase name="testLinearSearchFirstArrayList()" classname="com.example.project.TestSearch" time="0.011"/>
+  <testcase name="testLinearSearchFoundArray()" classname="com.example.project.TestSearch" time="0.001"/>
   <testcase name="testLinearSearchCountList()" classname="com.example.project.TestSearch" time="0.001"/>
-  <testcase name="testLinearSearchCountArray()" classname="com.example.project.TestSearch" time="0.001"/>
+  <testcase name="testLinearSearchCountArray()" classname="com.example.project.TestSearch" time="0.0"/>
   <testcase name="testLinearSearchLastArray()" classname="com.example.project.TestSearch" time="0.001"/>
-  <testcase name="testLinearSearchFirstArray()" classname="com.example.project.TestSearch" time="0.001"/>
+  <testcase name="testLinearSearchFirstArray()" classname="com.example.project.TestSearch" time="0.003"/>
   <testcase name="testLinearSearchLastList()" classname="com.example.project.TestSearch" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
